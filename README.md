@@ -16,3 +16,9 @@ Then, you can use the following command to open the interactive map (it will ope
 
 Screenshot:
 <img src='screenshot.png'>
+
+### Data Analysis Notebooks:
+Credit to Allen Downey's code, which was used for plotting/visualizations and statistical analysis. It is from his book, "Think Stats", which can be found here:
+<br>greenteapress.com/thinkstats2/thinkstats2.pdf<br>
+<br>Credit to chriswhong for manually entering lat/long info for each station by remote code. His Github is here:
+<br>https://github.com/chriswhong/nycturnstiles 
