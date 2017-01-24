@@ -13,3 +13,6 @@ To run the script, please install bokeh using either of the following commands:
 
 Then, you can use the following command to open the interactive map (it will open in a browser tab):
 <br><i>bokeh serve --show interactive_map.py</i>
+
+Screenshot:
+<img src='screenshot.png'>
